@@ -3,7 +3,7 @@
 <h3 align="center">Python | Data Science | Machine Learning | Deep Learning | Computer Vision </h3>
 
 - 📫 How to reach me **harshpaseriya01@gmail.com**
-- ⚡ Fun fact **I think developers spend more time learning as compared to others :) **
+- ⚡ Hi, I'm Harsh Paseriya, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing and model training. After some time you can call me self-taught Data Science Engineer from India. :) **
 
 
 ### I have technical experience and interest in -
