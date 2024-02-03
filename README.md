@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Harsh Paseriya</h1>
-<h3 align="center">Python | Data Science | Machine Learning | Deep Learning | Computer Vision </h3>
+<h3 align="center">Tableau | Data Analytics | Machine Learning | SQL | Python | Excel </h3>
 
 - 📫 How to reach me **harshpaseriya01@gmail.com**
-- ⚡ Hi, I'm Harsh Paseriya, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing and model training. After some time you can call me self-taught Data Science Engineer from India. :) **
+- ⚡ Hi, I'm Harsh Paseriya, Data Analysit With 3 Years of Experience. I am enhancing my knowledge with the latest developments in the field of Data Science with focus on Feature Engineering, Data pre-processing and model training. After some time you can call me self-taught Data Science Engineer from India. :) **
 
 
 ### I have technical experience and interest in -
